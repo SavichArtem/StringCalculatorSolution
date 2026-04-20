@@ -1,0 +1,11 @@
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\bin\Debug\net8.0\StringCalculator.deps.json
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\bin\Debug\net8.0\StringCalculator.dll
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\bin\Debug\net8.0\StringCalculator.pdb
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\obj\Debug\net8.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\obj\Debug\net8.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\obj\Debug\net8.0\StringCalculator.AssemblyInfo.cs
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\obj\Debug\net8.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\obj\Debug\net8.0\StringCalculator.dll
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\obj\Debug\net8.0\refint\StringCalculator.dll
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\obj\Debug\net8.0\StringCalculator.pdb
+C:\Users\Artem\source\repos\StringCalculatorSolution\StringCalculator\obj\Debug\net8.0\ref\StringCalculator.dll
